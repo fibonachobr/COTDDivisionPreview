@@ -1,0 +1,8 @@
+[meta]
+name        = "COTD Division Preview"
+author      = "fibonacho"
+category    = "Overlay"
+version     = "0.0.1"
+
+[script]
+imports     = ["Icon.as", "Formatting.as", "Time.as"]
